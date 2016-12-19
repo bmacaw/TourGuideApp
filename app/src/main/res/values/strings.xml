@@ -1,0 +1,17 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Visit Boise</string>
+
+    <!-- Category name for eat [CHAR LIMIT=20] -->
+    <string name="category_eat">Eat</string>
+
+    <!-- Category name for drink [CHAR LIMIT=20] -->
+    <string name="category_drink">Drink</string>
+
+    <!-- Category name for play [CHAR LIMIT=20] -->
+    <string name="category_play">Play</string>
+
+    <!-- Category name for explore [CHAR LIMIT=20] -->
+    <string name="category_explore">Explore</string>
+
+</resources>
