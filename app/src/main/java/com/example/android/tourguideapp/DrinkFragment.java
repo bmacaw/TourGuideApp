@@ -30,16 +30,16 @@ public class DrinkFragment extends Fragment {
         final ArrayList<Place> places = new ArrayList<Place>();
 
         //places.add("Flying M Coffee House");
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
+        places.add(new Place("Flying M Coffee House", "Coffee shop", R.drawable.android_nougat));
+        places.add(new Place("10 Barrell Brewing Co.", "Pub and American cuisine", R.drawable.android_nougat));
+        places.add(new Place("Bardenay", "Craft cocktails, wine, and beer", R.drawable.android_nougat));
+        places.add(new Place("Le Peep", "Coffee shop", R.drawable.android_nougat));
+        places.add(new Place("Neurolux ", "Bar and live music", R.drawable.android_nougat));
+        places.add(new Place("Leaf Teahouse", "Tea house", R.drawable.android_nougat));
+        places.add(new Place("Goldy's Corner", "Coffee, tea, and dessert", R.drawable.android_nougat));
+        places.add(new Place("Ha'penny Bridge Pub", "Irish pub", R.drawable.android_nougat));
+        places.add(new Place("Liquid Lounge", "Cocktails and grill", R.drawable.android_nougat));
+        places.add(new Place("The Modern Hotel and Bar", "Craft cocktails, beer, wine", R.drawable.android_nougat));
 
         // Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
         // adapter knows how to create layouts for each item in the list, using the

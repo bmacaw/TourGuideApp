@@ -30,16 +30,16 @@ public class PlayFragment extends Fragment {
         final ArrayList<Place> places = new ArrayList<Place>();
 
         //places.add("Flying M Coffee House");
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
+        places.add(new Place("Boise River Greenbelt", "Recreational path along river through Boise", R.drawable.android_nougat));
+        places.add(new Place("Boise Escape", "Room escape games", R.drawable.android_nougat));
+        places.add(new Place("Geocaching", "High-tech hide-and-seek", R.drawable.android_nougat));
+        places.add(new Place("Snowshoeing", "Winter fun", R.drawable.android_nougat));
+        places.add(new Place("Boise River Float", "Summer water fun", R.drawable.android_nougat));
+        places.add(new Place("Idaho Shakespeare Festival", "Amphitheater theatrical experience", R.drawable.android_nougat));
+        places.add(new Place("Egyptian Theater", "Historic 1927 movie theatre", R.drawable.android_nougat));
+        places.add(new Place("Morrison Center", "Performing arts venue", R.drawable.android_nougat));
+        places.add(new Place("Knitting Factory Concert House", "Contemporary band concert hall", R.drawable.android_nougat));
+        places.add(new Place("Boise Hot Air Company", "Balloon rides", R.drawable.android_nougat));
 
         // Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
         // adapter knows how to create layouts for each item in the list, using the

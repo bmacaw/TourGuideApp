@@ -30,16 +30,16 @@ public class ExploreFragment extends Fragment {
         final ArrayList<Place> places = new ArrayList<Place>();
 
         //places.add("Flying M Coffee House");
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
+        places.add(new Place("Boise Train Depot", "Historic site with panoramic city views", R.drawable.android_nougat));
+        places.add(new Place("Freak Alley Gallery", "Large outdoor mural gallery ", R.drawable.android_nougat));
+        places.add(new Place("Boise Art Museum", "Local artwork and traveling exhibitions", R.drawable.android_nougat));
+        places.add(new Place("Idaho Historical Museum", "Idaho history museum", R.drawable.android_nougat));
+        places.add(new Place("Idaho Botanical Garden", "Diverse outdoor gardens and exhibits", R.drawable.android_nougat));
+        places.add(new Place("Zoo Boise", "Over 200 animals featured and a kids'farm", R.drawable.android_nougat));
+        places.add(new Place("Discovery Center of Idaho", "Interactive science museum", R.drawable.android_nougat));
+        places.add(new Place("Ann Frank Human Rights Memorial", "Educational park", R.drawable.android_nougat));
+        places.add(new Place("Old Idaho Penitentiary", "Historic prison offering daily tours", R.drawable.android_nougat));
+        places.add(new Place("World Center for Birds of Prey", "Exhibitions and birdwatching", R.drawable.android_nougat));
 
         // Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
         // adapter knows how to create layouts for each item in the list, using the

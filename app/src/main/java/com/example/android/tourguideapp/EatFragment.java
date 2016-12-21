@@ -30,16 +30,16 @@ public class EatFragment extends Fragment {
         final ArrayList<Place> places = new ArrayList<Place>();
 
         //places.add("Flying M Coffee House");
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
-        places.add(new Place("Flying M Coffee House", "Coffee Shop", R.drawable.flying_m_coffee));
+        places.add(new Place("The Basque Market", "Spanish cuisine", R.drawable.android_nougat));
+        places.add(new Place("Fork", "Upscale American dining", R.drawable.android_nougat));
+        places.add(new Place("Superb Sushi Downtown", "Sushi", R.drawable.android_nougat));
+        places.add(new Place("Alavita", "Italian", R.drawable.android_nougat));
+        places.add(new Place("Red Feather Lounge", "American dining", R.drawable.android_nougat));
+        places.add(new Place("Wild Root Cafe and Market", "Regular, veggie and vegan", R.drawable.android_nougat));
+        places.add(new Place("Shige Japanese Cuisine", "Sushi, teppanyaki, and saki", R.drawable.android_nougat));
+        places.add(new Place("High Note Cafe", "Food, beer, live music", R.drawable.android_nougat));
+        places.add(new Place("Goldy's Breakfast Bistro", "American breakfast and lunch", R.drawable.android_nougat));
+        places.add(new Place("Mazzah", "Mediterranean cuisine", R.drawable.android_nougat));
 
         // Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
         // adapter knows how to create layouts for each item in the list, using the
