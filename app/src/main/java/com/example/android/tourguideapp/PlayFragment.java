@@ -30,16 +30,16 @@ public class PlayFragment extends Fragment {
         final ArrayList<Place> places = new ArrayList<Place>();
 
         //places.add("Flying M Coffee House");
-        places.add(new Place("Boise River Greenbelt", "Recreational path along river through Boise", R.drawable.android_nougat));
-        places.add(new Place("Boise Escape", "Room escape games", R.drawable.android_nougat));
-        places.add(new Place("Geocaching", "High-tech hide-and-seek", R.drawable.android_nougat));
-        places.add(new Place("Snowshoeing", "Winter fun", R.drawable.android_nougat));
-        places.add(new Place("Boise River Float", "Summer water fun", R.drawable.android_nougat));
-        places.add(new Place("Idaho Shakespeare Festival", "Amphitheater theatrical experience", R.drawable.android_nougat));
-        places.add(new Place("Egyptian Theater", "Historic 1927 movie theatre", R.drawable.android_nougat));
-        places.add(new Place("Morrison Center", "Performing arts venue", R.drawable.android_nougat));
-        places.add(new Place("Knitting Factory Concert House", "Contemporary band concert hall", R.drawable.android_nougat));
-        places.add(new Place("Boise Hot Air Company", "Balloon rides", R.drawable.android_nougat));
+        places.add(new Place("Boise River Greenbelt", "Recreational path along river through Boise", R.drawable.boise_greenbelt_path));
+        places.add(new Place("Boise Escape", "Room escape games", R.drawable.boise_escape));
+        places.add(new Place("Boise River Fishing", "Fishing in the heart of the city", R.drawable.boise_river_fishing));
+        places.add(new Place("MK Nature Center", "Educational wildlife experience", R.drawable.mk_nature_center));
+        places.add(new Place("Boise River Float", "Summer water fun", R.drawable.boise_river_float));
+        places.add(new Place("Idaho Shakespeare Festival", "Amphitheater theatrical experience", R.drawable.idaho_shakespeare));
+        places.add(new Place("Egyptian Theater", "Historic 1927 movie theatre", R.drawable.egyptian_theatre));
+        places.add(new Place("Morrison Center", "Performing arts venue", R.drawable.morrison_center));
+        places.add(new Place("Knitting Factory Concert House", "Contemporary band concert hall", R.drawable.knitting_factory));
+        places.add(new Place("Boise Hot Air Company", "Balloon rides", R.drawable.boise_hot_air));
 
         // Create an {@link ArrayAdapter}, whose data source is a list of Strings. The
         // adapter knows how to create layouts for each item in the list, using the

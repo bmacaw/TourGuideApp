@@ -44,9 +44,9 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         } else if (position == 1) {
             return new DrinkFragment();
         } else if (position == 2) {
-            return new ExploreFragment();
-        } else {
             return new PlayFragment();
+        } else {
+            return new ExploreFragment();
         }
     }
 

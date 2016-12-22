@@ -1,6 +1,6 @@
 <resources>
     <!-- Title for the application. [CHAR LIMIT=12] -->
-    <string name="app_name">Visit Boise</string>
+    <string name="app_name">Boise, USA</string>
 
     <!-- Category name for eat [CHAR LIMIT=20] -->
     <string name="category_eat">Eat</string>
