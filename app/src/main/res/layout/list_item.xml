@@ -33,7 +33,7 @@
                 android:gravity="bottom"
                 android:textAppearance="?android:textAppearanceMedium"
                 android:textColor="@android:color/black"
-                tools:text="Flying M Coffee House" />
+                tools:text="@string/place_text" />
 
             <TextView
                 android:id="@+id/description_text_view"
@@ -42,7 +42,7 @@
                 android:layout_weight="1"
                 android:gravity="top"
                 android:textAppearance="?android:textAppearanceMedium"
-                tools:text="Coffee Shop" />
+                tools:text="@string/description_text" />
 
         </LinearLayout>
 

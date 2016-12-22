@@ -14,4 +14,10 @@
     <!-- Category name for explore [CHAR LIMIT=20] -->
     <string name="category_explore">Explore</string>
 
+    <!-- Placeholder text for place text view-->
+    <string name="place_text">Flying M Coffee House</string>
+
+    <!-- Placeholder text for description text view-->
+    <string name="description_text">Coffee Shop</string>
+
 </resources>
