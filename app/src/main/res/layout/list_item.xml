@@ -32,7 +32,7 @@
                 android:layout_weight="1"
                 android:gravity="bottom"
                 android:textAppearance="?android:textAppearanceMedium"
-                android:textStyle="bold"
+                android:textColor="@android:color/black"
                 tools:text="Flying M Coffee House" />
 
             <TextView
